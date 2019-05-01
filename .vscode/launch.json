@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\src\\02_past-jobs.js"
+            "program": "${workspaceFolder}\\src\\03_node-schedule_status.js"
         }
     ]
 }
